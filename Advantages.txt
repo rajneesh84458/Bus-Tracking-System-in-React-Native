@@ -1,0 +1,7 @@
+1 - React Native is a New Technology
+2 - We can move to IOS app in Future.
+3 - Secure cause we are using firebase as database which is maintained by google.
+4 - Our database is fast cause we are using NoSQL database here.
+5 - Provide SignIn with facebook to make a secure login for student
+6 - Easy to use by admin,student & driver
+7 - Everyone can install this application and use it cause the application database is lightweight

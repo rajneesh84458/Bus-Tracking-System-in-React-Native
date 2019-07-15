@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8096,
+  "expoServerNgrokUrl": "https://fn-baf.rajneesh84458.locbus.exp.direct",
+  "packagerNgrokUrl": "https://packager.fn-baf.rajneesh84458.locbus.exp.direct",
+  "ngrokPid": 1152,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
+}

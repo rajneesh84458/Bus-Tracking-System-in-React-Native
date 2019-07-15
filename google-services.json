@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259850045673",
+    "firebase_url": "https://bus-tracking-system-a6389.firebaseio.com",
+    "project_id": "bus-tracking-system-a6389",
+    "storage_bucket": "bus-tracking-system-a6389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259850045673:android:ac5e9346e221ec79",
+        "android_client_info": {
+          "package_name": "com.student.locbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259850045673-l9bnr82n5tmvoc9uqmleca55rsa2m0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3ztI_02e3nECeacQAGD2sSU5pTEqvRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259850045673-l9bnr82n5tmvoc9uqmleca55rsa2m0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
